@@ -109,7 +109,7 @@
     "currency-codes-ts": "^3.0.0",
     "currency-exchanger-js": "^1.0.4",
     "data-guardian": "^1.1.3",
-    "date-fns": "^2.30.0",
+    "date-fns": "^4.0.0",
     "date-holidays": "^3.23.21",
     "decomposerize": "^1.4.4",
     "dmarc-report-parser": "^0.1.5",
